@@ -19,3 +19,5 @@ Tech Stack
 Priorities
 1. Learn to code
 2. Get an internship
+
+[selfie](man-se-sm.jpeg)
