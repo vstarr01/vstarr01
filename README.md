@@ -21,3 +21,5 @@ Priorities
 2. Get an internship
 
 ![selfie](man-se-sm.jpeg)
+
+[Link to Github](https://github.com/vstarr01)
